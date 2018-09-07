@@ -1,3 +1,3 @@
 # Local-Weather
 Freecodecamp Project
-<img src="snapshot.png">
+![snapshot image ](https://raw.githubusercontent.com/alpkoseoglu/Local-Weather/master/img/snapshot.png)
